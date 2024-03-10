@@ -15,9 +15,9 @@ let addressesapi = [
 	'https://raw.githubusercontent.com/avotcorg/cf_sub/main/cfip.txt' //可参考内容格式 自行搭建。
 ];
 
-let DLS = 10;//速度下限
+let DLS = 7;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/zhukings/vless2sub/main/addressescsv.csv'
+	//'https://raw.githubusercontent.com/zhukings/vless2sub/main/addressescsv.csv'
 ];
 
 let subconverter = "api.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
