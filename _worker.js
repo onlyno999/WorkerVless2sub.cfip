@@ -12,7 +12,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/avotcorg/cf_sub/main/cfip.txt' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/AAsillyoooy/dyue/main/one.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 10;//速度下限
