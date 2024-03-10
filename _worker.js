@@ -7,6 +7,9 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:8443#高速VIP线路',
 	'cloudflare.cfgo.cc#onlyno999_更新',
+	'go.jp999.cloudns.org:8443#官方',
+	'go.110t.cloudns.org:8443#官方',
+	
 ];
 
 // 设置优选地址api接口
