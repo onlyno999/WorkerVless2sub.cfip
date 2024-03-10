@@ -7,18 +7,12 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:8443#高速VIP线路',
 	'cloudflare.cfgo.cc:8443#onlyno999_更新',
-	'go.jp999.cloudns.org:8443#CN官方',
-	'go.110t.cloudns.org:8443#CN官方', 
-	'go.love999.cloudns.org:8443#US官方',
-	'go.gohk999.cloudns.org:8443#CN官方',
-	'go.gohk106.cloudns.org:8443#CN官方',
-	'go.onlyno999.cloudns.org:8443#US官方',
 	
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.xt' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 10;//速度下限
