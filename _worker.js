@@ -5,14 +5,14 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'icook.tw:8443#高速VIP线路',
+	'icook.tw:8443#:cloudflare官方IP',
 	'cloudflare.cfgo.cc:8443#onlyno999_更新',
 	
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/avotcorg/cf_sub/main/cfip.txt' //可参考内容格式 自行搭建。
+	'https://yamcode.com/raw/cfip-80617' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 7;//速度下限
