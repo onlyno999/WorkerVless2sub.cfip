@@ -12,7 +12,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://yamcode.com/raw/cfip-80617' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/onlyno999/WorkerVless2sub.cfip/main/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 7;//速度下限
