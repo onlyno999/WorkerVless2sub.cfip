@@ -23,9 +23,7 @@
 104.20.17.217:2053#cloudflare官方-US 
 104.20.28.244:2053#cloudflare官方-US 
 172.67.76.124:2053#cloudflare官方-US 
-172.65.231.6:2053#cloudflare官方-US 
 104.26.14.25:2053#cloudflare官方-US 
-172.65.227.43:2053#cloudflare官方-US
 
 
 
