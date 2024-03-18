@@ -5,14 +5,24 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'icook.tw:8443#cloudflare官方IP',
-	'cloudflare.cfgo.cc:8443#onlyno999_更新',
+	'icook.tw:8443#cloudflare官方',
+	'cloudflare.cfgo.cc:8443#紧急备用',
+	'dn1.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn2.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn3.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn4.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn5.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn6.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn7.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn8.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn9.wo108.dedyn.io:8443#cloudflare官方-US',
+	'dn10.wo108.dedyn.io:8443#cloudflare官方-US',
 	
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/onlyno999/WorkerVless2sub.cfip/main/addressesapi.txt' //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/onlyno999/WorkerVless2sub.cfip/main/addressesapi.txt' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 7;//速度下限
