@@ -8,6 +8,17 @@ dn7.wo108.dedyn.io:8443#cloudflare官方-US
 dn8.wo108.dedyn.io:8443#cloudflare官方-US
 dn9.wo108.dedyn.io:8443#cloudflare官方-US
 dn10.wo108.dedyn.io:8443#cloudflare官方-US
+dn11.wo108.dedyn.io:8443#cloudflare官方-US
+dn12.wo108.dedyn.io:8443#cloudflare官方-US
+dn13.wo108.dedyn.io:8443#cloudflare官方-US
+dn14.wo108.dedyn.io:8443#cloudflare官方-US
+dn15.wo108.dedyn.io:8443#cloudflare官方-US
+dn16.wo108.dedyn.io:8443#cloudflare官方-US
+
+
+
+
+
 
 
 
