@@ -6,7 +6,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
 	'dn17.wo108.dedyn.io:8443#cloudflare官方-CN',
-	'dn18.wo108.dedyn.io:8443#解析域名方案-CN',
+	'dn18.wo108.dedyn.io:8443#解析域名方案备用-CN',
 	'dn1.wo108.dedyn.io:8443#cloudflare官方-US',
 	'dn2.wo108.dedyn.io:8443#cloudflare官方-US',
 	'dn3.wo108.dedyn.io:8443#cloudflare官方-US',
