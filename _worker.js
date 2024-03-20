@@ -6,7 +6,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
 	'ip.sb:8443#cloudflare官方-CN',
-	'skk.moe:8443#解析域名方案备用-CN',
+	'japan.com:8443#解析域名方案备用-CN',
 	'icook.tw:8443#cloudflare官方-US',
 	'fbi.gov:8443#cloudflare官方-US',
 	'www.visa.com.hk:8443#cloudflare官方-US',
@@ -15,13 +15,13 @@ let addresses = [
 	'www.visa.co.jp:8443#cloudflare官方-US',
 	'www.visakorea.com:8443#cloudflare官方-US',
 	'www.digitalocean.com:8443#cloudflare官方-US',
-	'www.shopify.com:8443#cloudflare官方-US',
+	'www.gov.se:8443#cloudflare官方-US',
 	'www.hugedomains.com:8443#cloudflare官方-US',
 	'www.whatismyip.com:8443#cloudflare官方-US',
 	'www.ipget.net:8443#cloudflare官方-US',
 	'www.udacity.com:8443#cloudflare官方-US',
 	'www.glassdoor.com:8443#cloudflare官方-US',
-	'www.visa.cl:8443#cloudflare官方-US',
+	'www.gov.ua:8443#cloudflare官方-US',
 	'www.visa.fr:8443#cloudflare官方-US',
 	
 ];
