@@ -13,7 +13,7 @@ let addresses = [
 	'dn6.wo108.dedyn.io:8443#解析域名-香港',
 	'dn7.wo108.dedyn.io:8443#解析域名-台湾',
 	'dn8.wo108.dedyn.io:8443#解析域名-美国',
-	'dn9.wo108.dedyn.io:8443#解析域名-美国',
+	'dn9.wo108.dedyn.io:8443#解析域名-香港',
 	'dn10.wo108.dedyn.io:8443#解析域名-香港',
 	'dn11.wo108.dedyn.io:8443#解析域名-中国',
 	'dn12.wo108.dedyn.io:8443#解析域名-美国',
