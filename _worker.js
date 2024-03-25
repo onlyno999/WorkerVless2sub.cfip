@@ -15,14 +15,14 @@ let addresses = [
 	'dn8.wo108.dedyn.io:8443#解析域名-美国',
 	'dn9.wo108.dedyn.io:8443#解析域名-香港',
 	'dn10.wo108.dedyn.io:8443#解析域名-香港',
-	'dn11.wo108.dedyn.io:8443#解析域名-中国',
+	'dn11.wo108.dedyn.io:8443#解析域名-香港',
 	'dn12.wo108.dedyn.io:8443#解析域名-美国',
-	'dn13.wo108.dedyn.io:8443#解析域名-中国',
-	'dn14.wo108.dedyn.io:8443#解析域名-中国',
+	'dn13.wo108.dedyn.io:8443#解析域名-香港',
+	'dn14.wo108.dedyn.io:8443#解析域名-香港',
 	'dn15.wo108.dedyn.io:8443#解析域名-台湾',
 	'dn16.wo108.dedyn.io:8443#解析域名-香港',
-	'dn17.wo108.dedyn.io:8443#解析域名-中国',
-	'dn18.wo108.dedyn.io:8443#解析域名-中国',
+	'dn17.wo108.dedyn.io:8443#解析域名-香港',
+	'dn18.wo108.dedyn.io:8443#解析域名-香港',
 	
 ];
 
