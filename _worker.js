@@ -5,8 +5,8 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'dn1.wo108.dedyn.io:8443#onlyno999-香港',
-	'dn2.wo108.dedyn.io:8443#域名优选中-香港',
+	'ip.sb:8443#onlyno999-香港',
+	'api.ip.sb:8443#域名优选中-香港',
 	'dn3.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn4.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn5.wo108.dedyn.io:8443#解析域名-香港',
