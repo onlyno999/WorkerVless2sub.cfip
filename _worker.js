@@ -7,22 +7,22 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'dn1.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn2.wo108.dedyn.io:8443#阿里域名-香港',
-	'dn3.wo108.dedyn.io:8443#阿里域名-香港',
-	'dn4.wo108.dedyn.io:8443#阿里域名-香港',
+	'dn3.wo108.dedyn.io:2096#阿里域名-香港',
+	'dn4.wo108.dedyn.io:2096#阿里域名-香港',
 	'dn5.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn6.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn7.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn8.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn9.wo108.dedyn.io:8443#阿里域名-香港',
 	'dn10.wo108.dedyn.io:8443#阿里域名-香港',
-	'dn11.wo108.dedyn.io:8443#阿里域名-日本',
+	'dn11.wo108.dedyn.io:2096#阿里域名-日本',
 	'dn12.wo108.dedyn.io:8443#阿里域名-日本',
 	'dn13.wo108.dedyn.io:8443#阿里域名-日本',
 	'dn14.wo108.dedyn.io:8443#阿里域名-日本',
 	'dn15.wo108.dedyn.io:8443#阿里域名-日本',
-	'dn16.wo108.dedyn.io:8443#阿里域名-日本',
-	'dn17.wo108.dedyn.io:8443#阿里域名-日本',
-	'dn18.wo108.dedyn.io:8443#阿里域名-日本',
+	'dn16.wo108.dedyn.io:2096#阿里域名-日本',
+	'dn17.wo108.dedyn.io:2096#阿里域名-日本',
+	'dn18.wo108.dedyn.io:2096#阿里域名-日本',
 	
 ];
 
