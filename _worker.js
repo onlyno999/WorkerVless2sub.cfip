@@ -20,8 +20,8 @@ let addresses = [
 	'dn13.wo108.dedyn.io:8443#阿里域名-日本',
 	'dn14.wo108.dedyn.io:8443#阿里域名-日本',
 	'dn15.wo108.dedyn.io:8443#阿里域名-日本',
-	'dn16.wo108.dedyn.io:2096#阿里域名-日本',
-	'dn17.wo108.dedyn.io:2096#阿里域名-日本',
+	'dn16.wo108.dedyn.io:2053#阿里域名-日本',
+	'dn17.wo108.dedyn.io:2053#阿里域名-日本',
 	'dn18.wo108.dedyn.io:2096#阿里域名-日本',
 	
 ];
