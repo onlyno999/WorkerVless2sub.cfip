@@ -18,10 +18,10 @@ let addresses = [
 	'dn11wo108.dedyn.io.s.wo108.dedyn.io:2053#域名解析-香港',
 	'dn12wo108.dedyn.io.d.wo108.dedyn.io:2053#域名解析-香港',
 	'dn13wo108.dedyn.io.f.wo108.dedyn.io:2053#域名解析-香港',
-	'dn14wo108.dedyn.io.g.wo108.dedyn.io:2053#域名解析-香港',
-	'dn15wo108.dedyn.io.h.wo108.dedyn.io:2053#域名解析-香港',
-	'dn16wo108.dedyn.io.j.wo108.dedyn.io:2053#域名解析-香港',
-	'dn17wo108.dedyn.io.k.wo108.dedyn.io:2053#域名解析-香港',
+	'dn14wo108.dedyn.io.g.wo108.dedyn.io:2053#域名解析-日本',
+	'dn15wo108.dedyn.io.h.wo108.dedyn.io:2053#域名解析-美国',
+	'dn16wo108.dedyn.io.j.wo108.dedyn.io:2053#域名解析-韩国',
+	'dn17wo108.dedyn.io.k.wo108.dedyn.io:2053#域名解析-台湾',
 	'dn18wo108.dedyn.io.l.wo108.dedyn.io:2053#域名解析-香港',
 	
 ];
